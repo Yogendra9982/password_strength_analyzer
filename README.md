@@ -34,7 +34,7 @@ cd password_strength_analyzer
 Make the script executable:
 
 ```bash
-chmod +x password_strength_analyzer.sh
+chmod +x password-analyzer.sh
 ```
 
 Run the script:
